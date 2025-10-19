@@ -9,7 +9,7 @@ https://www.biorxiv.org/content/10.1101/2025.10.13.682247v1
 ## Repository Contents
 This repository hosts the computational and experimental analysis for the study introducing POPs: T7-derived, non-replicative phage particles that retain receptor specificity while delivering antimicrobial protein cargo. Contents include:
 
-### 1. Code
+### 1. Codes
 Graph_Codes/: This directory contains all the scripts used for visualizing antimicrobial susceptibility testing (AST) results. 
 
 ### 2. Results
